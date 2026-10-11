@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CotroleDeGastos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1728c96a93d063af361c7f5f94db72e7ffdb973f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00d3bafb94e72864334529ddbf329c82afac103b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CotroleDeGastos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CotroleDeGastos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

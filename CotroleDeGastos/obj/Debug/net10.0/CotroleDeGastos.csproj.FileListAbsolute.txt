@@ -12,3 +12,4 @@ C:\Users\User\Desktop\controle de gasto C#\CotroleDeGastos\obj\Debug\net10.0\ref
 C:\Users\User\Desktop\controle de gasto C#\CotroleDeGastos\obj\Debug\net10.0\CotroleDeGastos.pdb
 C:\Users\User\Desktop\controle de gasto C#\CotroleDeGastos\obj\Debug\net10.0\CotroleDeGastos.genruntimeconfig.cache
 C:\Users\User\Desktop\controle de gasto C#\CotroleDeGastos\obj\Debug\net10.0\ref\CotroleDeGastos.dll
+C:\Users\User\Desktop\controle de gasto C#\CotroleDeGastos\obj\Debug\net10.0\CotroleDeGastos.sourcelink.json
